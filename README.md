@@ -35,11 +35,6 @@ I’m **Narisetti Chaitanya Naidu**, a 3rd-year **B.Tech CSE student @ JNTU Kaki
   🛠 React, Vite, AI Pipelines.  
   🚀 **LablabAI Raise Your Hack Hackathon**.  
 
-- 🔹 [DevGuard AI](https://github.com/Ncn914491/devguard-ai-copilot)  
-  🎯 AI copilot for developer productivity + security workflows.  
-  🛠 Dart, CI/CD, Cloud-native integrations.  
-  🚀 **Code with Kiro Hackathon**.  
-
 - 🔹 [Career Guidance Platform](https://github.com/Ncn914491/careerguidance)  
   🎯 AI-powered student platform with guidance, dashboards & chat.  
   🛠 Next.js, TypeScript, Supabase, Tailwind, Gemini API.  
@@ -47,30 +42,18 @@ I’m **Narisetti Chaitanya Naidu**, a 3rd-year **B.Tech CSE student @ JNTU Kaki
 - 🔹 [Multi-LLM Chatbot](https://github.com/Ncn914491/chatbot)  
   🎯 Unified chatbot supporting Gemini, Mistral & more.  
   🛠 Python (Flask, Tkinter, CLI + Web UI).  
-
-- 🔹 [SafeHaven](https://github.com/Ncn914491/SafeHaven)  
-  🎯 Emergency alert app (SOS, incident reporting, help center locator).  
-  🛠 Expo frontend, Express backend, Cloud Run, Docker.  
-
-- 🔹 [SecureAI ThreatScope](https://github.com/Ncn914491/secureai-threatscope-final)  
-  🎯 AI-based **threat detection & analysis** on cloud.  
-  🛠 Google Cloud Vision APIs, AI Security Models.  
+  
 
 - 🔹 [Sentiment Analysis Pipeline](https://github.com/Ncn914491/sentiment-analysis-pipeline)  
   🎯 Text sentiment classification & insights.  
   🛠 Python, ML toolkits, Generative AI.  
   🚀 **Delivered during Edunet Foundation Internship**.  
 
-- 🔹 [Razorpay Integration](https://github.com/Ncn914491/article-platform)  
-  🎯 Secure payment gateway for a content platform.  
-  🛠 TypeScript, Razorpay APIs.  
-
 ---
 
 ## 🏁 Hackathons
 - 🏆 **Google Gemma 3n Impact Challenge (Kaggle)** → Privacy AI Assistant  
-- 🏆 **LablabAI Raise Your Hack** → Medical Error Prevention  
-- 🏆 **Code with Kiro Hackathon** → DevGuard AI  
+- 🏆 **LablabAI Raise Your Hack** → Medical Error Prevention    
 
 ---
 
@@ -79,26 +62,17 @@ I’m **Narisetti Chaitanya Naidu**, a 3rd-year **B.Tech CSE student @ JNTU Kaki
 - Delivered **Sentiment Analysis Pipeline**.
 ---
 
-## 🏅 Certifications (35+)
+## 🏅 Certifications
 **Microsoft:** AI-900, Career Essentials (Cybersecurity + Generative AI), AI Skills Fest (15+ modules)  
 **Google Cloud:** GenAI Exchange (20+ labs, 5 skill badges), Vertex AI, Gemini API, Streamlit Apps, Prompt Design, Responsible AI  
 **Cisco:** Intro to Cybersecurity  
 **TCM Security:** Linux 100 (Kali)  
 **Cybrary:** Offensive Security Operations  
 **Forage:** Cybersecurity Analyst Simulation  
-**LinkedIn:** Cybersecurity Foundations, Intro to AI, Microsoft Security Copilot  
-**Freedom With AI:** AI Masterclass  
+**LinkedIn:** Cybersecurity Foundations, Intro to AI, Microsoft Security Copilot    
 **JNTU Kakinada:** Generative AI for Data Analytics  
-
----
-
-## 🏆 Achievements
-- 🪖 **NCC Cadet** — Discipline & leadership.  
-- ♟️ **Chess Player** — Strategic problem-solving.  
-
----
 
 ## 📫 Contact
 - 🔗 [LinkedIn](https://linkedin.com/in/narisetti-chaitanya-naidu)  
-- 💻 [GitHub](https://github.com/Ncn914491)  
+- 💻 [GitHub](https://github.com/Karna14314)  
 - 📧 [Email](mailto:chaitanyanaidunarisetti@gmail.com)  
