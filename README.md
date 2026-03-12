@@ -1,7 +1,6 @@
 # 🚀 AI & Cybersecurity Explorer | Cloud-Native Innovator | B.Tech CSE @ JNTUK
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-narisetti--chaitanya--naidu-blue?logo=linkedin)](https://linkedin.com/in/narisetti-chaitanya-naidu)
-[![GitHub](https://img.shields.io/badge/GitHub-Ncn914491-181717?logo=github)](https://github.com/Ncn914491)
 [![Gmail](https://img.shields.io/badge/Gmail-chaitanyanaidunarisetti@gmail.com-red?logo=gmail)](mailto:chaitanyanaidunarisetti@gmail.com)
 
 ---
