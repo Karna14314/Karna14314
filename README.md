@@ -53,7 +53,7 @@ I am a 3rd-year **B.Tech CSE student at JNTU Kakinada (CGPA 8.28)** with a deep 
 
 ## 💼 Experience & Internships
 
-**Infosys Springboard (Feb 2026 – Mar 2026)** *AI Research Analyst Intern (Project PaperIQ)* - Researching and developing AI-driven solutions for document intelligence and intelligence retrieval.
+**Infosys Springboard (Feb 2026 – April 2026)** *AI Research Analyst Intern (Project PaperIQ)* - Researching and developing AI-driven solutions for document intelligence and intelligence retrieval.
 
 **Edunet Foundation (Jun–Jul 2025)** *Intern* - Developed and delivered comprehensive ML pipelines and explored enterprise security tools like SafeHaven & SecureAI ThreatScope.
 
@@ -62,6 +62,7 @@ I am a 3rd-year **B.Tech CSE student at JNTU Kakinada (CGPA 8.28)** with a deep 
 ## 🏁 Hackathon Participation
 
 - 💻 **Google Gemma 3n Impact Challenge (Kaggle)** → *Privacy AI Assistant* - 💻 **LablabAI Raise Your Hack** → *Medical Error Prevention* ---
+- 
 
 ## 🏅 Key Certifications
 
