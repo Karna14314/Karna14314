@@ -16,8 +16,7 @@
 ## 🚀 About Me
 
 I'm a **3rd-year B.Tech CSE (Honours) student at JNTU Kakinada** (CGPA 8.28) building intelligent Android applications at **Karna Digital** — my personal indie developer brand. I combine mobile engineering with AI to create privacy-first, production-ready apps that ship on Google Play Store.
-
-Currently completing an **Infosys Springboard internship**, I focus on:
+ I focus on:
 - 📱 **Android development** with Kotlin & Jetpack Compose
 - 🤖 **AI integration** (LLMs, Gemini API, prompt engineering)
 - 🔓 **Open-source contributions** (Catrobat, IntelOwl)
