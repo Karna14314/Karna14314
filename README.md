@@ -105,15 +105,6 @@ JNTU Kakinada | CGPA: 8.28 | Expected: May 2026
 
 ---
 
-## 🔧 Development Approach
-
-I believe in **fast iteration, audit-before-edit workflows, and AI-augmented development**:
-- Use **Cursor** + Claude for productive pair programming
-- Leverage **Gemini CLI** with MCP for agentic task automation
-- Practice **CI/CD automation** with GitHub Actions
-- Focus on **production quality** — apps ship on Play Store with 4+ stars
-
----
 
 ## 📚 Currently Learning
 
@@ -123,19 +114,6 @@ I believe in **fast iteration, audit-before-edit workflows, and AI-augmented dev
 - Conversational AI with Claude & Multi-Modal Models
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karna14314&show_icons=true&theme=dark&bg_color=0d1117&title_color=00897B&icon_color=00897B&text_color=e0e0e0" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karna14314&layout=compact&theme=dark&bg_color=0d1117&title_color=00897B&text_color=e0e0e0" alt="Top Languages" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in:
