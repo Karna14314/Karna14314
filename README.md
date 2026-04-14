@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I am a 3rd-year **B.Tech CSE student at JNTU Kakinada (CGPA 8.43)** with a deep passion for building robust applications that span across mobile, AI, and cybersecurity domains. Currently preparing for GSoC 2026 with a focus on security-centric open-source projects.
+I am a 3rd-year **B.Tech CSE student at JNTU Kakinada (CGPA 8.28)** with a deep passion for building robust applications that span across mobile, AI, and cybersecurity domains. Currently preparing for GSoC 2026 with a focus on security-centric open-source projects.
 
 - 🧠 **AI & Cloud:** Building AI-driven apps solving privacy, security, and medical challenges using Google Cloud, Vertex AI, and Generative AI APIs.
 - 📱 **Mobile Development:** Actively developing and publishing Android applications (like utility toolkits and offline games) using Flutter and Kotlin.
