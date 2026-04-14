@@ -1,4 +1,4 @@
-# 🚀 Hello, I'm Narisetti Chaitanya Naidu
+# Hello, I'm Narisetti Chaitanya Naidu
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+%26+Cybersecurity+Explorer;Flutter+%26+Kotlin+Mobile+Developer;Cloud-Native+Innovator;B.Tech+CSE+%40+JNTUK" alt="Typing SVG" />
@@ -16,10 +16,9 @@
 
 I am a 3rd-year **B.Tech CSE student at JNTU Kakinada (CGPA 8.28)** with a deep passion for building robust applications that span across mobile, AI, and cybersecurity domains. Currently preparing for GSoC 2026 with a focus on security-centric open-source projects.
 
-- 🧠 **AI & Cloud:** Building AI-driven apps solving privacy, security, and medical challenges using Google Cloud, Vertex AI, and Generative AI APIs.
-- 📱 **Mobile Development:** Actively developing and publishing Android applications (like utility toolkits and offline games) using Flutter and Kotlin.
-- 🔬 **Current Role:** AI Research Analyst Intern at Infosys Springboard (Project PaperIQ).
-- 🪖 **Beyond the Code:** NCC 'C' Certificate Cadet (Discipline & Leadership) | ♟️ Chess Player (Strategy & Critical Thinking).
+-  **AI & Cloud:** Building AI-driven apps solving privacy, security, and medical challenges using Google Cloud, Vertex AI, and Generative AI APIs.
+-  **Mobile Development:** Actively developing and publishing Android applications (like utility toolkits and offline games) using Flutter and Kotlin.
+-  **Beyond the Code:** NCC 'C' Certificate Cadet (Discipline & Leadership) | ♟️ Chess Player (Strategy & Critical Thinking).
 
 ---
 
@@ -62,7 +61,7 @@ I am a 3rd-year **B.Tech CSE student at JNTU Kakinada (CGPA 8.28)** with a deep 
 ## 🏁 Hackathon Participation
 
 - 💻 **Google Gemma 3n Impact Challenge (Kaggle)** → *Privacy AI Assistant* - 💻 **LablabAI Raise Your Hack** → *Medical Error Prevention* ---
-- 
+- 💻 36-Hour College Hackathon → Built an offline malware detection system using hybrid static + behavioral analysis (LightGBM), focused on real-time endpoint security.
 
 ## 🏅 Key Certifications
 
