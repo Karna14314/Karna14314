@@ -20,7 +20,6 @@ I'm a **3rd-year B.Tech CSE (Honours) student at JNTU Kakinada** (CGPA 8.28) bui
 - 📱 **Android development** with Kotlin & Jetpack Compose
 - 🤖 **AI integration** (LLMs, Gemini API, prompt engineering)
 - 🔓 **Open-source contributions** (Catrobat, IntelOwl)
-- ⚙️ **AI-augmented workflows** (Cursor, MCP tools, Claude)
 
 ---
 
